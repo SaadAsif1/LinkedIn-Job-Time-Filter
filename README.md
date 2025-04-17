@@ -16,10 +16,11 @@ A simple browser bookmarklet that gives job seekers an edge by letting them targ
 - ✅ Helps you apply earlier and beat the competition
 
 ## 📷 Linkedin Normal Date posted Filter
-![Screen Shot 2025-04-16 at 11 09 52 PM](https://github.com/user-attachments/assets/430ddba6-a219-4970-b707-50b547bc328e)
+![Screen Shot 2025-04-16 at 11 26 55 PM](https://github.com/user-attachments/assets/e4e272b1-110b-4099-b379-5e6287def995)
 
-**With This Bookmarklet:**
-![Screen Shot 2025-04-16 at 11 22 37 PM](https://github.com/user-attachments/assets/cbc2bf63-59e2-4e75-8fc5-9bead0120b51)
+**With This Bookmarklet:
+![Screen Shot 2025-04-16 at 11 26 37 PM](https://github.com/user-attachments/assets/008cd43b-f965-4ea1-ba0f-0be12419a2eb)
+
 
 ## 📦 How to Install
 
