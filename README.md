@@ -3,7 +3,6 @@
 **Add "Past Hour", "Past 6 Hours", and "Past 12 Hours" filters to LinkedIn Job Search with a single click!**  
 A simple browser bookmarklet that gives job seekers an edge by letting them target the freshest job listings — jobs posted just minutes ago — instead of relying on LinkedIn’s default filters.
 
----
 
 ## 🚀 Features
 
@@ -33,7 +32,6 @@ A simple browser bookmarklet that gives job seekers an edge by letting them targ
 6. Click the **bookmarklet**.
 7. Watch the custom time filters appear like magic. ✨
 
----
 
 ## 📋 Notes
 
@@ -41,18 +39,16 @@ A simple browser bookmarklet that gives job seekers an edge by letting them targ
 - If you're not on the correct page, a message will notify you.
 - No data is collected. No account access is required. It's completely local.
 
----
 
 ## 💡 Why Use This?
 
 LinkedIn's standard filters aren’t enough when competition is fierce. Recruiters often review early applicants first — this bookmarklet helps you become one of them.
 
----
 
 ## 💬 Credits
 
 Made with 💻 by [Saad Asif](https://www.linkedin.com/in/saaasif)  
 Have ideas or suggestions? [Open an issue](#)!
 
----
+
 
